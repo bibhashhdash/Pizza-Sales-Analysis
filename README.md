@@ -37,7 +37,7 @@ EDA involves exploring the datasets to answer questions like:
 - Retrieve the total number of orders placed
 
  <img width="275" alt="image" src="https://github.com/user-attachments/assets/f5c8aaa9-3fa8-4009-9c9a-a7a025f2d684">
-
+<br/>
   <img width="74" alt="image" src="https://github.com/user-attachments/assets/101fb8a6-137a-44d6-8bc2-9985e8d67ef0">
 
   
